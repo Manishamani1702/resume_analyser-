@@ -27,7 +27,26 @@ This tool helps job seekers **optimize their resumes** by identifying missing ke
 
 ---
 
-## 📂 Project Structure
-  app.py: Main Streamlit application
-  requirements.txt: Dependencies
-  README.md: Project documentation
+## installation:
+* step_1:
+    - description: Clone the repository
+    - command: git clone https://github.com/yourusername/ats-resume-analyzer.git
+* step_2:
+    - description: Navigate to the project folder
+    - command: cd ats-resume-analyzer
+* step_3:
+    - description: Install dependencies
+    - command: pip install -r requirements.txt
+* step_4:
+    - description: Run the application
+    - command: streamlit run app.py
+ 
+---
+
+# 💡 Future Improvements
+* AI-based semantic keyword matching (detects related skills)
+
+* Highlight missing keywords inside resume text
+
+* Export analysis report as PDF
+
